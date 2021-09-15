@@ -1,6 +1,6 @@
 pandas
 streamlit
 altair
-requests
+numpy
 yfinance
 datetime
